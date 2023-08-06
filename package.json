@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "react-icons": "^4.10.1"
+  },
+   "scripts": {
+    "start": "node index.js"
   }
 }
